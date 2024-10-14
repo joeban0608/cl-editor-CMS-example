@@ -932,6 +932,7 @@ __metadata:
     "@sveltejs/kit": "npm:^2.0.0"
     "@sveltejs/vite-plugin-svelte": "npm:^3.0.0"
     "@types/eslint": "npm:^9.6.0"
+    cl-editor: "npm:^2.3.0"
     eslint: "npm:^9.0.0"
     eslint-config-prettier: "npm:^9.1.0"
     eslint-plugin-svelte: "npm:^2.36.0"
@@ -945,6 +946,13 @@ __metadata:
     vite: "npm:^5.0.3"
   languageName: unknown
   linkType: soft
+
+"cl-editor@npm:^2.3.0":
+  version: 2.3.0
+  resolution: "cl-editor@npm:2.3.0"
+  checksum: 10c0/cfb51b2459257c0bff20a6da9a3bedc6d2d5c0648af20a2dac3e9f0bf8318d6738326d908cfcc17eda3d4f9fbd690ceb051b3dfd414b279befe25742f3db1fff
+  languageName: node
+  linkType: hard
 
 "clean-stack@npm:^2.0.0":
   version: 2.2.0

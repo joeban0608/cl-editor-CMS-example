@@ -29,5 +29,8 @@
 		"vite": "^5.0.3"
 	},
 	"type": "module",
-	"packageManager": "yarn@4.5.0"
+	"packageManager": "yarn@4.5.0",
+	"dependencies": {
+		"cl-editor": "^2.3.0"
+	}
 }
